@@ -283,3 +283,7 @@ button {
     height: 78vh;
     margin: 80px 0;
 }
+.design-step-1 h4 {
+    padding: 30px 5%;
+    color: white;
+}
