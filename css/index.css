@@ -433,11 +433,12 @@ button:hover {
     }
     nav {
         height: 5em;
-        padding: 10px 4%;
+        padding: 10px 7%;
     }
     button {
         width: 120px;
         font-size: 14px;
+        border-radius: 1px solid transparent;
         height: 48px;
     }
     .intro {
