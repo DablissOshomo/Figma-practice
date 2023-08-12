@@ -338,7 +338,7 @@ button:hover {
     width: 500px;
 }
 .design-step-1 {
-    background-image: url("Frame\ 46.png");
+    background-image: url("images/Frame\ 46.png");
     background: sticky;
     height: 78vh;
     margin: 80px 0;
@@ -349,13 +349,13 @@ button:hover {
     transform: scale(0.95);
 }
 .design-step-1:nth-child(4) {
-    background-image: url(Frame\ 46\ \(1\).png);
+    background-image: url(images/Frame\ 46\ \(1\).png);
 }
 .design-step-1:nth-child(5) {
-    background-image: url(Frame\ 46\ \(2\).png);
+    background-image: url(images/Frame\ 46\ \(2\).png);
 }
 .design-step-1:nth-child(6) {
-    background-image: url(Frame\ 46\ \(3\).png);
+    background-image: url(images/Frame\ 46\ \(3\).png);
 }
 .design-step-1 h4 {
     padding-top: 80px;
